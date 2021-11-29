@@ -53,7 +53,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Patrick2OL Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Patrick2OL/appointment-contratcs</url>
+            <url>https://maven.pkg.github.com/Patrick2OL/appointment-contracts</url>
         </repository>
     </distributionManagement>
 

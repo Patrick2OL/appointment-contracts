@@ -14,4 +14,5 @@ public class EditAppointment {
     String type;
     String topic;
     String information;
+    String userId;
 }

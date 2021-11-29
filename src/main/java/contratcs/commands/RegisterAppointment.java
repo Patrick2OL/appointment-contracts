@@ -15,4 +15,5 @@ public class RegisterAppointment {
     String type;
     String topic;
     String information;
+    String userId;
 }

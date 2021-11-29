@@ -1,0 +1,4 @@
+contratcs\commands\EditAppointment.class
+contratcs\events\AppointmentEdited.class
+contratcs\commands\RegisterAppointment.class
+contratcs\events\AppointmentRegistered.class

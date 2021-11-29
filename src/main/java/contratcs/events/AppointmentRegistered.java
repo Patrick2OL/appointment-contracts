@@ -13,5 +13,6 @@ public class AppointmentRegistered {
     String type;
     String topic;
     String information;
+    String userId;
     Instant occurredOn;
 }
